@@ -2,6 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
-.detection_file/
-.Acoustic_tags - PetersonLab.csv
-
+Acoustic_tags - PetersonLab.csv
+detection_files
