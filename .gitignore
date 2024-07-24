@@ -4,3 +4,5 @@
 .Ruserdata
 Acoustic_tags - PetersonLab.csv
 detection_files
+filtered_detections.csv
+Acoustic_tags_PetersonLab.csv
